@@ -8,4 +8,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 - r, annual rate of interest
 
 ## Output
+```python
   simple interest = p*t*r
+```
